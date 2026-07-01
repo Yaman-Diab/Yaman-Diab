@@ -162,20 +162,19 @@ A personal Flutter project inspired by food delivery app experiences.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yaman-Diab&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-<img src="https://streak-stats.demolab.com?user=Yaman-Diab&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://streak-stats.demolab.com?user=Yaman-Diab&theme=tokyonight&hide_border=true" width="70%" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yaman-Diab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%" />
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yaman-Diab&theme=tokyonight" width="95%" />
+<img src="https://img.shields.io/badge/Focus-Flutter%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<img src="https://img.shields.io/badge/Architecture-Clean%20Architecture-6f42c1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/State%20Management-BLoC%20%2F%20Cubit-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/APIs-Dio%20%2B%20REST-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Firebase-Auth%20%2B%20FCM-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
 </div>
 
@@ -183,11 +182,12 @@ A personal Flutter project inspired by food delivery app experiences.
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Yaman-Diab&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" width="95%" />
-
-</div>
+- 🥇 1st Place Winner — Freak It Flutter Competition
+- 🏆 Best Team & Best Developer — Freak It Competition
+- 📱 Built Wafir, a published delivery and ordering Flutter app
+- 💼 Remote Freelance Flutter Developer since May 2025
+- 🎓 Software Engineering student at Damascus University
+- 🚀 Focused on production-ready Flutter apps, clean architecture, APIs, Firebase, localization, and scalable UI
 
 ---
 
