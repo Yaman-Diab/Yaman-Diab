@@ -206,6 +206,7 @@ A personal Flutter project inspired by food delivery app experiences.
 - GitHub: [github.com/Yaman-Diab](https://github.com/Yaman-Diab)
 - LinkedIn: [linkedin.com/in/yaman-diab](https://www.linkedin.com/in/yaman-diab)
 - Email: [yamandiab7@gmail.com](mailto:yamandiab7@gmail.com)
+- Phone: 0938920500
 
 ---
 
